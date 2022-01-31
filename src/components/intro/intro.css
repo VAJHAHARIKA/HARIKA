@@ -104,8 +104,11 @@
     height: 100%;
   }
 
-  .i-desc{
-    display: none;
-  }
+   .i-desc{
+      display: contents;
+      font-family: 'Poppins', sans-serif;
+      padding: 100px;
+
+    }
   
 }
