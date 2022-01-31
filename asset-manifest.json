@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HARIKA/static/css/main.44a077c8.chunk.css",
+    "main.js": "/HARIKA/static/js/main.4f689e88.chunk.js",
+    "main.js.map": "/HARIKA/static/js/main.4f689e88.chunk.js.map",
+    "runtime-main.js": "/HARIKA/static/js/runtime-main.d3c5da0c.js",
+    "runtime-main.js.map": "/HARIKA/static/js/runtime-main.d3c5da0c.js.map",
+    "static/js/2.ffc6bdec.chunk.js": "/HARIKA/static/js/2.ffc6bdec.chunk.js",
+    "static/js/2.ffc6bdec.chunk.js.map": "/HARIKA/static/js/2.ffc6bdec.chunk.js.map",
+    "index.html": "/HARIKA/index.html",
+    "static/css/main.44a077c8.chunk.css.map": "/HARIKA/static/css/main.44a077c8.chunk.css.map",
+    "static/js/2.ffc6bdec.chunk.js.LICENSE.txt": "/HARIKA/static/js/2.ffc6bdec.chunk.js.LICENSE.txt",
+    "static/media/address.229ccec8.jpeg": "/HARIKA/static/media/address.229ccec8.jpeg",
+    "static/media/award.fe799b84.png": "/HARIKA/static/media/award.fe799b84.png",
+    "static/media/mail.f2e217b2.png": "/HARIKA/static/media/mail.f2e217b2.png",
+    "static/media/me.7c8f3628.png": "/HARIKA/static/media/me.7c8f3628.png",
+    "static/media/moon.b560f9cf.jpeg": "/HARIKA/static/media/moon.b560f9cf.jpeg",
+    "static/media/phone.591f7d95.jpeg": "/HARIKA/static/media/phone.591f7d95.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3c5da0c.js",
+    "static/js/2.ffc6bdec.chunk.js",
+    "static/css/main.44a077c8.chunk.css",
+    "static/js/main.4f689e88.chunk.js"
+  ]
+}
