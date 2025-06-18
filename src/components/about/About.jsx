@@ -17,7 +17,10 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          Completed BTech in CS from Anurag Group Of Institutions with a GPA of 9.2.
+          Research Engineer with 3+ years of experience at the intersection of machine learning, large language models, and infrastructure.
+          Skilled at translating research insights into scalable systems, designing evaluations to improve model performance, and identifying new capabilities aligned with real-world agentic behavior.
+          Passionate about first-principles thinking, rapid experimentation, and building intelligent systems with real product impact.
+
         </p>
         <p className="a-desc">
             I realized that theoretical knowledge will never be sufficient and began working on projects to enhance my expertise. 
