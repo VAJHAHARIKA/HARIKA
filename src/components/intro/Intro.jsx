@@ -19,8 +19,7 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        I'm a diligent worker and perseverance is my best trait. I have always been a tech-savvy. And that interest provoked me to work more and learn new technologies.
-                    </p>
+I am a machine learning engineer.                    </p>
                 </div>
                 <svg
           width="75"
